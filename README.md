@@ -26,6 +26,7 @@ ICT-Electronics student, 2nd-year bachelor at VIVES Brugge. Passionate about IoT
 
 ## 🌟 Projects
 - **Signapse App & Website:** Converts sign language into text, making communication more accessible.
+- ![signapse](https://github.com/vives-project-xp/Signapse.git)
 
 ## 🎮 Personal Interests
 Sim racing, learning new things, sports, movies, and the martial arts universe.
