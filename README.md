@@ -1,9 +1,5 @@
 ![Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-| |/ /__ _ () | |___
-| ' </ ` | '| | / -)
-||__,|| ||____|
-
 
 # Hi there 👋, I'm Kyell182
 
