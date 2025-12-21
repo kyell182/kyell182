@@ -1,16 +1,51 @@
-## Hi there 👋
+![Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-<!--
-**kyell182/kyell182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| |/ /__ _ () | |___
+| ' </ ` | '| | / -)
+||__,|| ||____|
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋, I'm Kyell182
+
+*"A day without learning is a day wasted. You need to make mistakes to learn new things."*
+
+## 👨‍💻 About Me
+ICT-Electronics student, 2nd-year bachelor at VIVES Brugge. Passionate about IoT, networks, hardware, and AI.
+
+## 🛠️ Skills
+
+**Programming Languages:**  
+![C](https://img.shields.io/badge/-C-555?style=flat&logo=c) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) 
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) 
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react)
+
+**Tools & Technologies:**  
+![STM32](https://img.shields.io/badge/-STM32-0082C9?style=flat) 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi) 
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code) 
+![Keil](https://img.shields.io/badge/-Keil-0072C6?style=flat)
+
+## 🌟 Projects
+- **Signapse App & Website:** Converts sign language into text, making communication more accessible.
+
+## 🎮 Personal Interests
+Sim racing, learning new things, sports, movies, and the martial arts universe.
+
+## 📊 GitHub Stats
+![Kyell182's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyell182&show_icons=true&theme=radical)
+
+## 🏷️ Top Languages & Tools
+![C](https://img.shields.io/badge/-C-555?style=flat&logo=c) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) 
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) 
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react)
+![STM32](https://img.shields.io/badge/-STM32-0082C9?style=flat) 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi) 
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code) 
+![Keil](https://img.shields.io/badge/-Keil-0072C6?style=flat)
+
