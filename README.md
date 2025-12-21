@@ -1,4 +1,4 @@
-![Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Banner]([https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNmNGJ1YzJseW16Y3ZzNDJoeWc2NmR2bTdvemhsaGRxb3JtaTh4MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif))
 
 
 # Hi there 👋, I'm Kyell182
