@@ -1,48 +1,45 @@
-![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJqeXZyYnZ5dHVrenlzazdwems5NXg2ZHFxcjlkamt4eHJrOWVibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif)
-
+![Banner](https://media3.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif)
 
 # Hi there 👋, I'm Kyell182
 
-*"A day without learning is a day wasted. You need to make mistakes to learn new things."*
+> "A day without learning is a day wasted. You need to make mistakes to learn new things."
 
-## 👨‍💻 About Me
-ICT-Electronics student, 2nd-year bachelor at VIVES Brugge. Passionate about IoT, networks, hardware, and AI.
+## About Me
 
-## 🛠️ Skills
+Second-year Bachelor's student in ICT-Electronics at VIVES University of Applied Sciences, Bruges.  
+Passionate about IoT, networking, embedded hardware, and artificial intelligence.
 
-**Programming Languages:**  
-![C](https://img.shields.io/badge/-C-555?style=flat&logo=c) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) 
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react)
+## Skills
 
-**Tools & Technologies:**  
-![STM32](https://img.shields.io/badge/-STM32-0082C9?style=flat) 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi) 
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio) 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code) 
-![Keil](https://img.shields.io/badge/-Keil-0072C6?style=flat)
+### Programming Languages
+[![C](https://img.shields.io/badge/C-555?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 
-## 🌟 Projects
-- **Signapse App & Website:** Converts sign language into text, making communication more accessible.
-- [signapse](https://github.com/vives-project-xp/Signapse.git)
+### Tools & Technologies
+[![STM32](https://img.shields.io/badge/STM32-0082C9?style=flat&logo=stmicroelectronics&logoColor=white)](https://www.st.com/)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Keil](https://img.shields.io/badge/Keil-0072C6?style=flat&logo=arm&logoColor=white)](https://www.keil.com/)
 
-## 🎮 Personal Interests
-Sim racing, learning new things, sports, movies, and the martial arts universe.
+## Featured Project
 
-## 📊 GitHub Stats
-![Kyell182's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyell182&show_icons=true&theme=radical)
+### Signapse
+Real-time sign language translation to text/speech using smart glasses, CV, and ML.  
+Tech: React Native, FastAPI, PyTorch, MediaPipe, Docker, Kubernetes.
 
-## 🏷️ Top Languages & Tools
-![C](https://img.shields.io/badge/-C-555?style=flat&logo=c) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) 
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react)
-![STM32](https://img.shields.io/badge/-STM32-0082C9?style=flat) 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi) 
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio) 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code) 
-![Keil](https://img.shields.io/badge/-Keil-0072C6?style=flat)
+[![GitHub](https://img.shields.io/badge/GitHub-Signapse-181717?style=flat&logo=github)](https://github.com/vives-project-xp/Signapse)
 
+## Interests
+Sim racing • Continuous learning • Sports • Movies • Martial arts
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyell182&theme=radical&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyell182&theme=radical&hide_border=true&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kyell182&theme=radical&hide_border=true)](https://git.io/streak-stats)
