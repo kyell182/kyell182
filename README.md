@@ -38,8 +38,8 @@ Sim racing • Continuous learning • Sports • Movies • Martial arts
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyell182&theme=radical&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyell182&theme=radical&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyell182&theme=radical&hide_border=true&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyell182&theme=radical&hide_border=true&layout=compact&langs_count=10)
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kyell182&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kyell182&theme=radical&hide_border=true)
