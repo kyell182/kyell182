@@ -5,8 +5,7 @@
 > "A day without learning is a day wasted. You need to make mistakes to learn new things."
 
 ## About Me
-
-Second-year Bachelor's student in ICT-Electronics at VIVES University of Applied Sciences, Bruges.  
+3th-year Bachelor's student in ICT-Electronics at VIVES University of Applied Sciences, Bruges.  
 Passionate about IoT, networking, embedded hardware, and artificial intelligence.
 
 ## Skills
